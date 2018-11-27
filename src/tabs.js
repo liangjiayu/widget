@@ -6,3 +6,5 @@ console.log('tabs');
 console.log(this);
 
 console.log('dev');
+
+console.log('vscode');
