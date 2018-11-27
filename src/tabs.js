@@ -10,3 +10,5 @@ console.log('dev');
 console.log('vscode');
 
 console.log(this);
+
+console.log('work软件');
