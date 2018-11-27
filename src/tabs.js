@@ -8,3 +8,5 @@ console.log(this);
 console.log('dev');
 
 console.log('vscode');
+
+console.log(this);
